@@ -24,5 +24,5 @@ $ php artisan migrate:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/ftnqNP2.png)
+![](https://i.imgur.com/0ZEa6oA.png)
 > 每個遷移的檔名會包含時間戳，可以讓 Laravel 確定遷移的順序

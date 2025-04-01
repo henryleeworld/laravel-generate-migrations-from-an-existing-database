@@ -1,4 +1,4 @@
-# Laravel 11 反轉現有資料庫結構成遷移
+# Laravel 12 反轉現有資料庫結構成遷移
 
 引入 kitloong 的 laravel-migrations-generator 套件來擴增反轉現有資料庫結構成遷移，遷移可以說是資料庫的版本控制，可以讓你的團隊輕易修改與共享應用程式的資料庫結構。
 
@@ -24,5 +24,5 @@ $ php artisan migrate:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/0ZEa6oA.png)
+![](https://i.imgur.com/Yhrx6Qc.png)
 > 每個遷移的檔名會包含時間戳，可以讓 Laravel 確定遷移的順序
